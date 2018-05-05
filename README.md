@@ -3,7 +3,7 @@ A list of hackathons I've been to, and the repos for the project I worked on.
 
 # 2018
 ### CatHacks IV - 2018.04.07
-[DVTIO](https://github.com/ACMatUC/revolutionuc-wiki/wiki) - we didn't finish this one
+[DVTIO](https://github.com/zacharysang/cathacks-iv) - we didn't finish this one
 ### DerbyHacks3 - 2018.02.10
 [Know Yourself](https://github.com/kurtlewis/know-yourself) 
 
